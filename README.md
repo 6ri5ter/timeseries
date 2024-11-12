@@ -1,2 +1,2 @@
 # timeseries
-'Old Faithful' eruptions' prediction with linear models. 
+Project for the course of 'Timeseries' @ece.auth
